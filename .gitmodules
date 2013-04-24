@@ -4,3 +4,6 @@
 [submodule "deploy"]
 	path = deploy
 	url = git@github.com:astonishdesign/sk-deploy.git
+[submodule "provision"]
+	path = provision
+	url = git@github.com:astonishdesign/sk-provision.git
