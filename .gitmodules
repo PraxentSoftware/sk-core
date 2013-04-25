@@ -1,9 +1,9 @@
 [submodule "build"]
 	path = build
-	url = git@github.com:astonishdesign/sk-build.git
+	url = git://github.com/astonishdesign/sk-build.git
 [submodule "deploy"]
 	path = deploy
-	url = git@github.com:astonishdesign/sk-deploy.git
+	url = git://github.com:astonishdesign/sk-deploy.git
 [submodule "provision"]
 	path = provision
-	url = git@github.com:astonishdesign/sk-provision.git
+	url = git://github.com:astonishdesign/sk-provision.git
